@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoService</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="not_connect_to_service">not connect to service</string>
+    <string name="music_is_playing">music is playing</string>
+    <string name="music_is_stopped">music is stopped</string>
+</resources>
